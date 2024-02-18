@@ -9,4 +9,4 @@ History, and others. To automate this process, they have given a problem to iden
 for loan amount so that they can specifically target these customers. 
 
 # Project Description:
-This project uses data from Kaggle and machine learning to determine the loan eligibility of customers. 
+This project uses data from Kaggle and machine learning to predict the loan eligibility of customers. 
